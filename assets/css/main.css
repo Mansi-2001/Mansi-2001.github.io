@@ -2731,13 +2731,13 @@ input, select, textarea {
 			-webkit-flex-shrink: 0;
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
-			padding: 3em;
+			padding: 1em;
 		}
 
 			#header > header .avatar {
 				display: block;
 				margin: 0 auto 2.25em auto;
-				width: 8em;
+				width: 6em;
 			}
 
 			#header > header h1 {
@@ -2748,7 +2748,7 @@ input, select, textarea {
 			#header > header p {
 				color: #d2f2e9;
 				font-style: italic;
-				margin: 1em 0 0 0;
+				margin: 0.5em 0 0 0;
 			}
 
 		#header > footer {
@@ -2797,7 +2797,7 @@ input, select, textarea {
 						border: 0;
 						color :rgb(243, 240, 240) !important;
 						display: block;
-						padding: 0.85em 0;
+						padding: 0.55em 0;
 						text-decoration: none;
 					}
 
@@ -2883,7 +2883,7 @@ input, select, textarea {
 			}
 
 				#header > header {
-					padding: 2em;
+					padding: 1.2em;
 				}
 
 				#header > footer {
